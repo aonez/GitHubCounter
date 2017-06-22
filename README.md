@@ -1,4 +1,7 @@
 # GitHubCounter
+
+![GitHubCounter Icon](https://github.com/aonez/GitHubCounter/blob/master/GitHubCounter.safariextension/icon-128.png)
+
 A Safari extension that displays releases downloads counter.
 
 It uses:
