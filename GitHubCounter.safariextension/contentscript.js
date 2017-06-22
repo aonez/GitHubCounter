@@ -21,7 +21,8 @@ xmlHttp.onreadystatechange = function () {
         var el = els[i];
         if ( el.href in downloadMap ) {
           var dwnCount = document.createElement( 'small' );
-          dwnCount.appendChild( document.createTextNode( ' - ' + downloadMap[el.href] + ' downloads' ) )
+		  dwnCount.className = 'githubdownloadscounter text-gray float-right'; // Right style
+          dwnCount.appendChild( document.createTextNode(downloadMap[el.href] + ' downloads' ) )
           el.appendChild( dwnCount );
         }
       }

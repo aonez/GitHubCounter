@@ -1,0 +1,7 @@
+ul.release-downloads li a small:not(.githubdownloadscounter){
+	text-align: right;
+}
+
+.githubdownloadscounter { 
+    padding-right: 0.69em;
+}

@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>aone</string>
 	<key>Builder Version</key>
-	<string>11603.2.5</string>
+	<string>12603.2.4</string>
 	<key>CFBundleDisplayName</key>
 	<string>GitHubCounter</string>
 	<key>CFBundleIdentifier</key>
@@ -22,6 +22,7 @@
 		<dict>
 			<key>End</key>
 			<array>
+				<string>styler.js</string>
 				<string>contentscript.js</string>
 			</array>
 		</dict>
@@ -33,7 +34,7 @@
 	<key>Description</key>
 	<string>Displays releases download count counter. Thanks to @addshore and Nick Roach.</string>
 	<key>DeveloperIdentifier</key>
-	<string>4FG648TM2A</string>
+	<string>0000000000</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
