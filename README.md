@@ -6,7 +6,7 @@ A Safari extension that displays releases downloads counter.
 
 ### How to install:
 
-- Just download the [latest release](https://github.com/aonez/GitHubCounter/releases/latest) or go to the [Releases](https://github.com/aonez/GitHubCounter/releases) page.
+- Just download the [latest release](https://github.com/aonez/GitHubCounter/releases/latest) or go to the [Releases](https://github.com/aonez/GitHubCounter/releases) page and choose your prefered version.
 
 ### Using Chrome?
 
