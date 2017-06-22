@@ -12,6 +12,10 @@ Just download the [latest release](https://github.com/aonez/GitHubCounter/releas
 
 It just shows the downloads count near each release in GitHub. No toolbar elements, no bars, nothing else.
 
+An example:
+
+![](https://github.com/aonez/GitHubCounter/blob/master/Media/readme-example.png)
+
 ### Using Chrome?
 
 Just use [chrome-github-release-downloads](https://github.com/addshore/chrome-github-release-downloads) from @addshore, as this one is based on it.
