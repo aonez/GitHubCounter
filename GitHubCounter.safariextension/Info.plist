@@ -50,5 +50,9 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://github.com/aonez/GitHubCounter/blob/master/update.plist</string>
+	<key>Website</key>
+	<string>https://github.com/aonez/GitHubCounter</string>
 </dict>
 </plist>
