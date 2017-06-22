@@ -8,7 +8,7 @@ A Safari extension that displays releases downloads counter.
 
 Just download the [latest release](https://github.com/aonez/GitHubCounter/releases/latest) or go to the [Releases](https://github.com/aonez/GitHubCounter/releases) page and choose your prefered version.
 
-### How it works?
+### How it works:
 
 It just shows the downloads count near each release in GitHub. No toolbar elements, no bars, nothing else.
 
