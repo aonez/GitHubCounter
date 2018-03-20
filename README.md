@@ -20,7 +20,7 @@ An example:
 
 ### Using Chrome?
 
-Just use [chrome-github-release-downloads](https://github.com/addshore/chrome-github-release-downloads) from @addshore, as this one is based on it.
+Just use [chrome-github-release-downloads](https://github.com/addshore/chrome-github-release-downloads) from [@addshore](https://github.com/addshore), as this one is based on it.
 
 ### It uses:
 
