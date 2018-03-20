@@ -26,4 +26,4 @@ Just use [chrome-github-release-downloads](https://github.com/addshore/chrome-gi
 
 - `contentscript.js` from [chrome-github-release-downloads](https://github.com/addshore/chrome-github-release-downloads), many thanks to [@addshore](https://github.com/addshore)'s work. It is all the code this extension runs.
 
-- Icon based on [this one](https://www.iconfinder.com/icons/1055068/arrow_cloud_down_download_icon#size=512) by [Nick Roach](http://www.elegantthemes.com).
+- Icon based on [this one](https://www.iconfinder.com/icons/1055068/arrow_cloud_down_download_icon#size=512) made by [Nick Roach](http://www.elegantthemes.com).
