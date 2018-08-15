@@ -1,4 +1,4 @@
-ul.release-downloads li a small:not(.githubdownloadscounter){
+details ul li a small:not(.githubdownloadscounter){
 	text-align: right;
 }
 

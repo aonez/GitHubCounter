@@ -23,7 +23,13 @@ xmlHttp.onreadystatechange = function () {
           var dwnCount = document.createElement( 'small' );
 		  dwnCount.className = 'githubdownloadscounter text-gray float-right'; // Right style
           dwnCount.appendChild( document.createTextNode(downloadMap[el.href] + ' downloads' ) )
-          el.appendChild( dwnCount );
+		  var sizes = el.getElementsByTagName('small');
+		  if (sizes) {
+			  var size = sizes[0];
+			  if (size) {
+    		  	el.insertBefore(dwnCount, size);
+		  	}
+		  }
         }
       }
       break;
