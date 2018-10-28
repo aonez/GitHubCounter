@@ -6,9 +6,11 @@ A Safari extension that displays releases downloads counter.
 
 ### How to install:
 
+- On the Mac App Store: [Ghounter](https://itunes.apple.com/es/app/ghounter/id1438633677)
+
 - Safari Gallery comming soon?
 
-- Manually download the [latest release](https://github.com/aonez/GitHubCounter/releases/latest) or go to the [Releases](https://github.com/aonez/GitHubCounter/releases) page and choose your prefered version.
+- Manually download the [latest release](https://github.com/aonez/GitHubCounter/releases/latest) or go to the [Releases](https://github.com/aonez/GitHubCounter/releases) page and choose your prefered version. Note external extensions are no more supported on Safari 12+.
 
 ### How it works:
 
