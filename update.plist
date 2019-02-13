@@ -10,11 +10,11 @@
        <key>Developer Identifier</key>
        <string>4FG648TM2A</string>
        <key>CFBundleVersion</key>
-       <string>1.1.1</string>
+       <string>1.1.2</string>
        <key>CFBundleShortVersionString</key>
-       <string>27</string>
+       <string>28</string>
        <key>URL</key>
-       <string>https://github.com/aonez/GitHubCounter/releases/download/v1.1.1/GitHubCounter.safariextz</string>
+       <string>https://github.com/aonez/GitHubCounter/releases/download/v1.1.2/GitHubCounter.safariextz</string>
      </dict>
    </array>
 </dict>
