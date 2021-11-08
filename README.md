@@ -17,7 +17,7 @@ An example:
 
 ![](https://github.com/aonez/GitHubCounter/blob/master/Media/readme-example.png)
 
-### Using Chrome?
+### Using Chrome, Firefox, Edge, Brave... 
 
 Just use [chrome-github-release-downloads](https://github.com/addshore/chrome-github-release-downloads) from [@addshore](https://github.com/addshore), as this one is based on it.
 
