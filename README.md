@@ -1,4 +1,4 @@
-# GitHubCounter
+# Ghounter (aka GitHubCounter)
 
 ![GitHubCounter Icon](https://github.com/aonez/GitHubCounter/blob/master/GitHubCounter.safariextension/icon-128.png)
 
