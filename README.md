@@ -2,7 +2,7 @@
 
 ![GitHubCounter Icon](https://github.com/aonez/GitHubCounter/blob/master/GitHubCounter.safariextension/icon-128.png)
 
-A Safari extension that displays releases downloads counter.
+The Ghounter Safari Extension displays the download count on any Releases page in GitHub.
 
 ### How to install:
 
